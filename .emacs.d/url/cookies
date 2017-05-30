@@ -1,0 +1,55 @@
+;; Emacs-W3 HTTP cookies file
+;; Automatically generated file!!! DO NOT EDIT!!!
+
+(setq url-cookie-storage
+ '((".google.co.jp"
+  [url-cookie "NID" "102=t8H_5GvdWKFGvxDdn8BpwYj0XL1E6mpwOqlfKw0hdBXTHLCrofLV9CpcvgdAv5bSWbaIp97y8o3i53BUIQamjObAt44jAJgnKXTvMaMTCXFsKGy8l4GO5ProFfY2hdxD" "31-Oct-2017 12:38:10.00 GMT" "/" ".google.co.jp" nil]
+  [url-cookie "HttpOnly" nil "31-Oct-2017 12:38:10.00 GMT" "/" ".google.co.jp" nil])
+ (".google.com"
+  [url-cookie "NID" "103=WRIIdjCk_lD-xHcKTVMaG13r6k7CKgCk4p2ZLsNOxQEvy4wytfzow6s9iJeG3d5yk1mJsJai2OMsZw5b2h8TH1GCRqzEfo6PU1IPiMjqAa_bPmzCtzdA1wHxkrZlbLhfPWKhITj3eNu5foYreNeXlvO4XJUDNQSGz2rQl2E4GK8Y7yo4XWiISlQizaAP-o6UdbvHDLV8D5Q" "19-Nov-2017 01:31:07.00 GMT" "/" ".google.com" nil]
+  [url-cookie "APISID" "VYiOzawvg54wg_8w/AoJ10f3wQ6hFY9BNr" "20-May-2019 01:31:07.00 GMT" "/" ".google.com" nil]
+  [url-cookie "HttpOnly" nil "19-Nov-2017 01:31:07.00 GMT" "/" ".google.com" nil]
+  [url-cookie "HSID" "AnKQn__M-rHio28wN" "20-May-2019 01:31:07.00 GMT" "/" ".google.com" nil]
+  [url-cookie "Priority" "HIGH" "20-May-2019 01:31:07.00 GMT" "/" ".google.com" nil]
+  [url-cookie "SID" "tASEvofERyBlA0I6j9U2AybyNS40A-53aDw03ozo5aKx5jIXB8iV3NCyyG2LMxBVF5I_uA." "20-May-2019 01:31:07.00 GMT" "/" ".google.com" nil])
+ (".yahoo-mbga.jp"
+  [url-cookie "F" "bf2682bafbd3c315a6e3d855d032199b" "31-Dec-2037 23:59:59.00 GMT" "/" ".yahoo-mbga.jp" nil]
+  [url-cookie "ymbga_session" "690dfd5c9d2575e297ae2250ae9d168fcd3972c9" "17-Jun-2017 01:19:57.00 GMT" "/" ".yahoo-mbga.jp" nil])
+ ("www.mbga.jp"
+  [url-cookie "SP_GUEST" "145313636" "19-Jun-2017 01:13:04.00 GMT" "/" "www.mbga.jp" nil]
+  [url-cookie "SP_F" "92a5be7c8a0417fcb9dd71ab371938bed8be2ce8bb0602263b11f172400389e3" "19-Jun-2017 01:19:31.00 GMT" "/" "www.mbga.jp" nil]
+  [url-cookie "HttpOnly" nil "19-Jun-2017 01:13:04.00 GMT" "/" "www.mbga.jp" nil]
+  [url-cookie "SP_T" "20170520%2E101304%2E60%2E134%2E118%2E128%2Eibld2djs5S" "15-May-2018 01:13:04.00 GMT" "/" "www.mbga.jp" nil])
+ (".amazon.co.jp"
+  [url-cookie "session-id" "356-4167837-4044253" "01-Jan-2036 08:00:01.00 GMT" "/" ".amazon.co.jp" nil]
+  [url-cookie "session-id-time" "2082787201l" "01-Jan-2036 08:00:01.00 GMT" "/" ".amazon.co.jp" nil])
+ ("www.yodobashi.com"
+  [url-cookie "uq" "9285327068fc7c581be31211a8c1d97b893d2642" "17-Jun-2085 14:36:14.00 GMT" "/" "www.yodobashi.com" nil])
+ (".yodobashi.com"
+  [url-cookie "yid" "616CFC7AD1D6E184C2727AD70FC3412E" "17-Jun-2085 14:36:14.00 GMT" "/" ".yodobashi.com" nil]
+  [url-cookie "newses" "0" "17-Jun-2085 14:36:14.00 GMT" "/" ".yodobashi.com" nil]
+  [url-cookie "yatpz" "C1A84lwoAYIC0%2F6LUhIi4tTCXQ%3D%3D" "28-Aug-2017 11:22:07.00 GMT" "/" ".yodobashi.com" nil]
+  [url-cookie "hty_logout_time" "100000001001442477-1496143327856:" "30-May-2018 11:22:07.00 GMT" "/" ".yodobashi.com" nil]
+  [url-cookie "Version" "1" "30-May-2018 11:22:07.00 GMT" "/" ".yodobashi.com" nil]
+  [url-cookie "Max-Age" "31536000" "30-May-2018 11:22:07.00 GMT" "/" ".yodobashi.com" nil])
+ ("mbga.jp"
+  [url-cookie "G" "20170520%2E101304%2EgSuoUOBFpe%2E127202031" "15-May-2018 01:13:04.00 GMT" "/" "mbga.jp" nil]))
+)
+(setq url-cookie-secure-storage
+ '(("accounts.google.com"
+  [url-cookie "ACCOUNT_CHOOSER" "AFx_qI6bKhV1bVoWMPjcuXk8rEKEpsr2gUt87kGLk5uh0lUZGmAjxTEELR_LP6zIowQQsSs90sQRxJ5njoRmVs30KKb2KUBsRqM-WQn5ndsx7i9Bx9Si_1v5Fg7DemD_k6w78GSOQRmO" "20-May-2019 01:31:07.00 GMT" "/" "accounts.google.com" t]
+  [url-cookie "LSID" "mail|o.mail.google.com|s.JP|ss:tASEvtg8KOgusXTf5lRZC0V_-DQOnjR3ASOBWDYyb3wZDQ_kRqZkZHotF2GtwXnkeyQVRQ." "20-May-2019 01:31:07.00 GMT" "/" "accounts.google.com" t]
+  [url-cookie "Priority" "HIGH" "20-May-2019 01:34:05.00 GMT" "/" "accounts.google.com" t]
+  [url-cookie "HttpOnly" nil "20-May-2019 01:34:05.00 GMT" "/" "accounts.google.com" t]
+  [url-cookie "GAPS" "1:SS65segQBdJDHWq3TyTNpnuNrczJfA:Vq-mBcDDzTz7c1DC" "20-May-2019 01:34:05.00 GMT" "/" "accounts.google.com" t])
+ (".google.com"
+  [url-cookie "SAPISID" "S7fep9JkMZv8OTNw/AUOJ0GAmhwhJHM6y5" "20-May-2019 01:31:07.00 GMT" "/" ".google.com" t]
+  [url-cookie "Priority" "HIGH" "20-May-2019 01:31:07.00 GMT" "/" ".google.com" t]
+  [url-cookie "HttpOnly" nil "20-May-2019 01:31:07.00 GMT" "/" ".google.com" t]
+  [url-cookie "SSID" "AIgW2pR1rRYSWgPRb" "20-May-2019 01:31:07.00 GMT" "/" ".google.com" t]))
+)
+
+;; Local Variables:
+;; version-control: never
+;; no-byte-compile: t
+;; End:

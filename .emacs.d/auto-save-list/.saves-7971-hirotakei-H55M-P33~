@@ -1,0 +1,12 @@
+/ssh:hirotakei@www6328ui.sakura.ne.jp:/home/hirotakei/public_html/test2.shtml
+#_assh_bhirotakei@www6328ui.sakura.ne.jp_b_ahome_ahirotakei_apublic__html_atest2.shtml#
+/ssh:hirotakei@www6328ui.sakura.ne.jp:/etc/apache2/mods-available/include.load
+#_assh_bhirotakei@www6328ui.sakura.ne.jp_b_aetc_aapache2_amods-available_ainclude.load#
+/ssh:hirotakei@www6328ui.sakura.ne.jp:/../etc/apache2/apache2.conf
+#_assh_bhirotakei@www6328ui.sakura.ne.jp_b_a.._aetc_aapache2_aapache2.conf#
+/ssh:hirotakei@www6328ui.sakura.ne.jp:/etc/apache2/mods-enabled/access_compat.load
+#_assh_bhirotakei@www6328ui.sakura.ne.jp_b_aetc_aapache2_amods-enabled_aaccess__compat.load#
+/ssh:hirotakei@www6328ui.sakura.ne.jp:/home/hirotakei/public_html/index.html
+#_assh_bhirotakei@www6328ui.sakura.ne.jp_b_ahome_ahirotakei_apublic__html_aindex.html#
+/ssh:hirotakei@www6328ui.sakura.ne.jp:/home/hirotakei/public_html/.htaccess
+#_assh_bhirotakei@www6328ui.sakura.ne.jp_b_ahome_ahirotakei_apublic__html_a.htaccess#
